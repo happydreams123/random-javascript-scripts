@@ -1,1 +1,2 @@
-scripts.json dont work
+# Random Javascript Scripts
+LOL WHAT ELSE AM I SUPPOSED TO SAY ITS JUST JAVASCRIPT SCRIPTS LOLLL
